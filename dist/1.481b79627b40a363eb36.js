@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{7:function(t,n,e){"use strict";e.r(n);var s={name:"about"},a=e(0),u=Object(a.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"about"},[this._v("关于")])}),[],!1,null,null,null);n.default=u.exports}}]);
+//# sourceMappingURL=1.481b79627b40a363eb36.js.map
